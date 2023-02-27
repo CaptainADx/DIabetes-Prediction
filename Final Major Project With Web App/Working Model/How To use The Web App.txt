@@ -1,0 +1,11 @@
+Step 1 :- Hit "Windows + R"
+
+Step 2 :- Type the following command :-
+		streamlit run " _______ "
+
+Step 3 :- Replace "_______" with the path location of "Diabetes Prediction Web App" 
+
+
+Step 4 :- Hit "Enter"
+
+Step 5 :- Fill the Required Fields and Hit the "Diabetes Test Result" Button
